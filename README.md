@@ -1,6 +1,7 @@
 # push_swap
 
-Usage
+Usage:
+
 Git clone the repository and cd into it. Then use make to compile.
 
 Then run it with :
