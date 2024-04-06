@@ -9,7 +9,7 @@ Then run it with :
 ./push_swap <numbers>
 list of integers seperated by white spaces, no duplicates.
 
-# Push_Swap Rules and Grading
+# Push_Swap Rules
 The program is only allowed two stacks to work with, stack A and stack B. All the numbers are initially added to stack A, and B is empty.
 
 The possible actions are:
