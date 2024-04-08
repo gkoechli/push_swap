@@ -7,7 +7,7 @@ Git clone the repository and cd into it. Then use make to compile.
 
 Then run it with :
 
-  ./push_swap numbers
+      ./push_swap numbers
   
 numbers = list of integers seperated by white spaces, no duplicates. (for example: "10 9 8 7 6 5 4 3 2 1")
 
