@@ -1,5 +1,5 @@
 # push_swap
-Sorting program that aims to sort an integer list with the least amount of manipulations between a set of pre-determined rules
+Sorting program that aims to sort an integer list with the least amount of manipulations between a set of pre-determined rules.
 
 # Usage
 
